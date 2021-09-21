@@ -15,6 +15,7 @@
   
 #### [My Linkedin page](https://www.linkedin.com/in/chunao-liu-1a7a31204/)
 
+#### I'm currently working on WhiteBoard, a cross-platform mobile IDE that can scan code using OCR
 #### 💞️ I'm currently looking for an internship on Software Engineering.
 #### 📫 Please contact me through my email: liu2849@purdue.edu
 

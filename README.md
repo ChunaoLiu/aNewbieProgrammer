@@ -7,7 +7,7 @@
 #### Major Projects:
   - [WhiteBoard](https://github.com/Anurag-Shah/WhiteBoard): a cross-platform mobile IDE that can scan code using OCR, process by OpenCV and compile using different compilers.
   - [Pow-Wow](https://github.com/aNewbieProgrammer/Pow-Wow): an Online Consultant App, featuring a fully working back-end and front-end IOS app.
-  - [CS240 Final Project](https://github.com/aNewbieProgrammer/CS240/tree/master/proj1): a Midi API capably of reading and storing MIDI files byte by byte and store them in a binary tree. Also capable of adjusting the sound wave. 
+  - [My Portfolio](https://github.com/aNewbieProgrammer/chunao-portfolio): a React based slide-show portfolio of mine. A long-term website that I will keep updating as my life progress.
   - [Pastagram](https://github.com/aNewbieProgrammer/Parstagram): A simple clone of the Instagram IOS app, able to post, edit and upload pictures into Instagram database.
  
 #### Competition History:
